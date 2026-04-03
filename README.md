@@ -60,7 +60,7 @@ Este reposit√≥rio inclui um arquivo `environment.yml` para garantir que as vers√
 2. **Crie e ative o ambiente Conda:**
     ```bash
     conda env create -f environment.yml
-    conda activate data
+    conda activate medical-analysis-env
 
 3. **Inicie o Jupyter Notebook ou abra no VScode:**
     ```bash
