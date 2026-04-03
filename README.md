@@ -49,8 +49,8 @@ Este repositório inclui um arquivo `environment.yml` para garantir que as vers�
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Gabriel-Domingueti/medical-cost-prediction.git](https://github.com/Gabriel-Domingueti/medical-cost-prediction.git)
-   cd nome-do-repositorio
+   git clone https://github.com/Gabriel-Domingueti/medical-cost-prediction.git
+   cd medical-cost-prediction
 
 2. **Crie e ative o ambiente Conda:**
     ```bash
