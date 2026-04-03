@@ -9,6 +9,11 @@ Este projeto aplica técnicas de Machine Learning para prever o custo de faturas
 ## Objetivo do Projeto
 Desenvolver um modelo preditivo capaz de estimar despesas médicas, auxiliando na gestão financeira de clínicas ou na provisão de recursos para operadoras de saúde. O foco está na interpretabilidade dos dados para entender como o estilo de vida impacta diretamente no faturamento clínico.
 
+## 📂 Fonte dos Dados
+Os dados foram obtidos no **Kaggle**:
+* **Dataset:** [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+* **Descrição:** Dados simulados que incluem idade, sexo, IMC, número de filhos, hábito de fumar e região.
+
 ## Tecnologias Utilizadas
 * **Linguagem:** Python 3.11
 * **Manipulação de Dados:** Pandas & NumPy
