@@ -37,7 +37,7 @@ Foram testados dois algoritmos principais para comparação de desempenho:
 ## Visualização dos Resultados
 
 ### Importância das Variáveis
-Este gráfico demonstra que o tabagismo e o IMC são os fatores que mais impactam os gastos médicos.
+Este gráfico evidencia uma clara separação entre fumantes e não fumantes. Pacientes fumantes apresentam custos significativamente maiores, especialmente quando combinados com valores elevados de BMI. Essa relação indica um comportamento não linear nos dados, justificando o melhor desempenho de modelos baseados em árvores, como o Random Forest.
 ![Importância das Variáveis](img/feature_importance.png)
 
 ### Precisão do Modelo (Regressão Linear)
